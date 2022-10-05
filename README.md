@@ -1,8 +1,7 @@
 <div align="center">
-<h1> HacktoberFest2022</h1>
-<a href="https://github.com/Harshal141/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AIT-OSS-Club;Hacktoberfest-Accepted;Aitians;Open-Source&center=true&width=500&height=50"></a>
+  <h1>HacktoberFest2022</h1>
+  <a href="https://github.com/Harshal141/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=AIT-OSS-Club;Hacktoberfest-Accepted;Aitians;Open-Source&center=true&width=500&height=50"></a>
 </div>
-
 <br />
 
 # Steps to add your contribution
@@ -72,9 +71,9 @@ git commit -m "Add <your-name> to Contributors list"
 ## Enter your profile 
 > Use following code to create new profile
 ```html
-<div class="col-md-6 col-lg-3 ">
+<div class="col-md-6 col-lg-3">
     <div class="img-block mb-5">
-        <img src="#" class="img-fluid  img-thumbnail rounded-circle" alt="image1">
+        <img src="#" class="img-fluid img-thumbnail rounded-circle" alt="image1">
         <div class="content mt-2">
             <h4></h4>
             <p class="text-muted"></p>
@@ -86,7 +85,7 @@ git commit -m "Add <your-name> to Contributors list"
 ## Note
 - Change githubUsername with your Github Username in 
 ```html 
-<img src = "https://github.com/<githubUsername>.png">
+<img src="https://github.com/<githubUsername>.png">
 ```
 - Fill h4 and p tag with relevant data
 ```html 
